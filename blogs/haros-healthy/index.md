@@ -15,20 +15,20 @@
 
 具体操作系统信息见图片:
 
-[Photo_Info1](src/photo_info1.jpg)
+![Photo_Info1](src/photo_info1.jpg)
 ## 环境展示
 
 本设备已经将Phigros在`健康使用手机`功能中选择`禁止使用`选项，即始终禁止使用。
 
-[Photo_envi1](src/photo_envi1.jpg)
+![Photo_envi1](src/photo_envi1.jpg)
 
 在主屏幕界面也能看出该应用是灰色禁止状态。
 
-[Photo_envi2](src/photo_envi2.jpg)
+![Photo_envi2](src/photo_envi2.jpg)
 
 进入Phigros，弹出了禁止使用界面，应用无法被打开。
 
-[Photo_envi3](src/photo_envi3.jpg)
+![Photo_envi3](src/photo_envi3.jpg)
 
 接下来，进入正式的步骤。
 
