@@ -1,3 +1,13 @@
+---
+layout: post
+title: 华为HarmonyOS绕过健康使用手机应用限制
+subtitle: 华为HarmonyOS的健康使用手机功能，由于优先级小于屏幕固定功能，所以可以通过屏幕固定来绕过健康使用手机功能对于某个应用程式的禁止使用或超时限制。
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [华为, 鸿蒙]
+---
+
 # 华为HarmonyOS绕过健康使用手机限制方法
 
 ## 简介
