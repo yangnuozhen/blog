@@ -1,5 +1,7 @@
 # iOS运行Minecraft:Java服务端
 
+>最开始发在[CSDN](https://blog.csdn.net/weixin_42718194/article/details/119607974)，图懒得重新搞了
+
 ## 写在前面
 
 众所周知，iOS的封闭性不用多说，所以我们几乎不可能在iOS上运行java，更何况是Minecraft服务器。。。。。了吗？
