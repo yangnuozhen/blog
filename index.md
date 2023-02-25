@@ -12,6 +12,8 @@ subtitle: top.nuozhen.website.blogs()
 
 ### **[iOS开Minecraft:Java服务器](/iOS_mcserver/)**
 
+### **[C语言学习](/C-Study)**
+
 ### **[Great Fire Wall——翻墙教程](/GFW/)**
 
 > 注：博客内容均为站主撰写/收集，所以不免有差错，如果有问题请于页面顶部“view on github”进入仓库界面提交issue或发起新的pull request.
